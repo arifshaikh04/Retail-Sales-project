@@ -69,6 +69,7 @@ Total Qty = SUM(Fact_Sales[Quantity])
 ## 🛠 Tools & Skills
 
 * Power BI Desktop
+* MySQL Database → Power BI (Data Loaded using SQL connection)
 * DAX (SUM, DIVIDE)
 * Data Modeling (Star Schema)
 * Dashboard Design
